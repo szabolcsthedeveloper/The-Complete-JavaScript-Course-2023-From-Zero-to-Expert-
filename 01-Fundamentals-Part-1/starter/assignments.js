@@ -1,4 +1,4 @@
-
+/*
 
 // Values and Variables
 
@@ -93,4 +93,4 @@ if (language === "Enlgish" && population <= 50 && isIsland === false) {
 
 const poptest = population > 33 ? `${country}'s population is above average` : `${country}'s population is below average`
 console.log(poptest)
-
+*/
