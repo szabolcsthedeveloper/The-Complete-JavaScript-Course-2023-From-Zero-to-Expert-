@@ -12,7 +12,7 @@ console.log(document.querySelector('.guess').value);
 */
 
 let highscore = 0;
-let remainingLives = 5;
+let remainingLives = 10;
 let secretNumber = generateSecretNumber();
 
 const displayMessage = function (message) {
