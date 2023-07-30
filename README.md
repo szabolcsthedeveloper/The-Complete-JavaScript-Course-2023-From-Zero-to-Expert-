@@ -38,6 +38,6 @@ Final project:
     <a href="https://forkify-plum.vercel.app//">See Demo</a>
     ·
     <a href="https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/issues">Report Bug</a>
+        <img src="18-Forkify/src/img/preview.png" alt="Preview">
   </p>
 </div>
-![Forkify preview](18-Forkify/src/img/preview.png)
