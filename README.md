@@ -23,3 +23,20 @@ It has the following courses:
 - Setting Up Git and Deployment
 
 More information [here](udemy.com/course/the-complete-javascript-course).
+
+Final project:
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://forkify-plum.vercel.app/">
+    <img src="./src/img/favicon.png" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">Forkify</h1>
+
+  <p align="center">
+    <a href="https://forkify-plum.vercel.app//">See Demo</a>
+    ·
+    <a href="https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/issues">Report Bug</a>
+  </p>
+</div>
