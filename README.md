@@ -30,7 +30,7 @@ Final project:
 <br />
 <div align="center">
   <a href="https://forkify-plum.vercel.app/">
-    <img src="./src/img/favicon.png" alt="Logo" height="80"  >
+    <img src="18-Forkify/src/img/favicon.png" alt="Logo" height="50"  >
   </a>
   <h1 align="center">Forkify</h1>
 
@@ -40,3 +40,4 @@ Final project:
     <a href="https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/issues">Report Bug</a>
   </p>
 </div>
+![Forkify preview](18-Forkify/src/img/preview.png)
