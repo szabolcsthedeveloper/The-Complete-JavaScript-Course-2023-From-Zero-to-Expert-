@@ -24,6 +24,8 @@ It has the following courses:
 
 More information [here](udemy.com/course/the-complete-javascript-course).
 
+![Screenshot 2023-08-13 091423](https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/assets/109295080/0b90d316-3837-4190-aa0f-635f28f09a89)
+
 Final project:
 
 <!-- PROJECT LOGO -->
