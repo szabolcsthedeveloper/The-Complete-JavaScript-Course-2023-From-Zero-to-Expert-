@@ -26,7 +26,8 @@ More information [here](udemy.com/course/the-complete-javascript-course).
 
 ![Screenshot 2023-08-13 091423](https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/assets/109295080/0b90d316-3837-4190-aa0f-635f28f09a89)
 
-Final project:
+
+Final Project: Forkify
 
 <!-- PROJECT LOGO -->
 <br />
@@ -37,9 +38,23 @@ Final project:
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://forkify-plum.vercel.app//">See Demo</a>
+    <a href="https://forkify-plum.vercel.app//">Live Demo</a>
     ·
     <a href="https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/issues">Report Bug</a>
         <img src="18-Forkify/src/img/preview.png" alt="Preview">
   </p>
 </div>
+
+
+Project 1: Pig Game
+👉 **[Live Demo](https://project-pig-game-js.netlify.app/)**
+![image](https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/assets/109295080/7c3a8e5e-6f0b-493f-8297-ed756fb12f38)
+
+Project 2: Bankist
+👉 **[Live Demo](https://project-mapty-js.netlify.app/)**
+![image](https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/assets/109295080/d9ff0f41-fb87-4703-a2ec-daa699656db9)
+
+Project 3: Mapty
+👉 **[Live Demo](https://project-mapty-js.netlify.app/)**
+![image](https://github.com/szabolcsthedeveloper/The-Complete-JavaScript-Course-2023-From-Zero-to-Expert-/assets/109295080/d5227e59-50ca-43fa-a2b9-86c8b46956ac)
+
